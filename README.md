@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kinghua0629)](https://github.com/ryo-ma/github-profile-trophy)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kinghua0629&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
+![Personal 3D Metrics](./profile-3d-contrib/profile-gitblock.svg)
 
 <!--
 **kinghua0629/kinghua0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
