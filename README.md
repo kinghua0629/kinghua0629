@@ -2,6 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinghua0629&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinghua0629&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kinghua0629)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **kinghua0629/kinghua0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
