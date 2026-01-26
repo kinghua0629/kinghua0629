@@ -16,6 +16,8 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 <!--
 **kinghua0629/kinghua0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
