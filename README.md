@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=1868DB&center=true&vCenter=true&width=435&lines=Hello!;I'm+King+Hua!)](https://git.io/typing-svg)
 
 ## Github States
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinghua0629&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinghua0629)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinghua0629&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contribution Graph
