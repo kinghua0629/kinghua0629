@@ -3,8 +3,8 @@
 
 ## Github States
 ![Stats](./profile/stats.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinghua0629&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 ## Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kinghua0629&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
