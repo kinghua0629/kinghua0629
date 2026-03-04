@@ -1,6 +1,9 @@
 # Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=1868DB&center=true&vCenter=true&width=435&lines=Hello!;I'm+King+Hua!)](https://git.io/typing-svg)
 
+## My Blog
+https://kinghua0629.github.io/
+
 ## Github States
 ![Stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
