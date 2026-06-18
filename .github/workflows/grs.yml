@@ -43,7 +43,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          username: your-username
+          username: kinghua0629
           file: trophy.svg
           theme: classic
           cols: -1
