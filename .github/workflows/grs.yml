@@ -44,7 +44,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           username: kinghua0629
-          file: trophy.svg
+          file: profile/trophy.svg
           theme: classic
           cols: -1
           rows: 10
