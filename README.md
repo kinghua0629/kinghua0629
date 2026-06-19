@@ -1,6 +1,4 @@
 # Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=1868DB&center=true&vCenter=true&width=435&lines=Hello!;I'm+Ziwen+Hua!)](https://git.io/typing-svg)
-
 I'm **Ziwen Hua**, an undergraduate at **University of Maryland, College Park**, passionate about computer science, mechanical engineering, and Formula 1. I believe writing elegant code and designing the perfect racing line both seek the optimal solution.
 
 ---
@@ -15,21 +13,22 @@ I'm **Ziwen Hua**, an undergraduate at **University of Maryland, College Park**,
 - **Engineering** — AI, aerospace, consumer electronics
 
 ### 🔧 Tech & Tools
-![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat&logo=rust&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-DF7A4C?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 📫 Connect
-[![Blog](https://img.shields.io/badge/Blog-oscarhua0629.com-1868DB?style=flat)](https://oscarhua0629.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-kinghua0629-181717?style=flat&logo=github)](https://github.com/kinghua0629)
-[![X](https://img.shields.io/badge/X-@TimHua349889-000000?style=flat&logo=x)](https://x.com/TimHua349889)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ziwen_Hua-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ziwen-hua-625a6a3b4/)
-[![Email](https://img.shields.io/badge/Email-oscarhua0629@gmail.com-EA4335?style=flat&logo=gmail)](mailto:kinghua0629@outlook.com)
+[![Blog](https://img.shields.io/badge/Blog-oscarhua0629.com-1868DB?style=for-the-badge)](https://oscarhua0629.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-kinghua0629-181717?style=for-the-badge&logo=github)](https://github.com/kinghua0629)
+[![X](https://img.shields.io/badge/X-@TimHua349889-000000?style=for-the-badge&logo=x)](https://x.com/TimHua349889)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ziwen_Hua-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ziwen-hua-625a6a3b4/)
+[![Email](https://img.shields.io/badge/Email-oscarhua0629@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:kinghua0629@outlook.com)
 
 ---
 
