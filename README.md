@@ -22,6 +22,7 @@ I'm **Ziwen Hua**, an undergraduate at **University of Maryland, College Park**,
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat&logo=rust&logoColor=white)
 
 ### 📫 Connect
 [![Blog](https://img.shields.io/badge/Blog-oscarhua0629.com-1868DB?style=flat)](https://oscarhua0629.com/)
