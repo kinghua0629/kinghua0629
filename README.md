@@ -10,7 +10,7 @@ I'm **Ziwen Hua**, an undergraduate at **University of Maryland, College Park**,
 ### 🏎️ Interests
 - **F1 Racing** — Favorite drivers: Max Verstappen & Oscar Piastri
 - **Computer Science** — Algorithms, simulations, and system design
-- **Engineering** — AI, aerospace, consumer electronics
+- **Engineering** — AI, aerospace, hardware, Formula Student(FSAE)
 
 ### 🔧 Tech & Tools
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
