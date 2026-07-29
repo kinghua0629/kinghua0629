@@ -38,9 +38,6 @@ I'm **Ziwen Hua**, an undergraduate at **University of Maryland, College Park**,
 ![Stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
 
-## 🏆 GitHub Trophies
-![Trophies](https://github.com/kinghua0629/kinghua0629/blob/main/profile/trophy.svg)
-
 ## 📈 Contribution Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kinghua0629&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
