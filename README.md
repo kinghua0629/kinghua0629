@@ -4,7 +4,7 @@ I'm **Ziwen Hua**, an undergraduate at **University of Maryland-College Park**, 
 ---
 
 ### 🎓 Education
-- **University of Maryland, College Park** — Undeclared *(2026 ~ Present)*
+- **University of Maryland-College Park** — Undeclared *(2026 ~ Present)*
 - **Shanghai NO.2 High School** — High School Diploma *(2022 ~ 2025)*
 
 ### 🏎️ Interests
