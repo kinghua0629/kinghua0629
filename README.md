@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm **Ziwen Hua**, an undergraduate at **University of Maryland, College Park**, passionate about computer science, mechanical engineering, and Formula 1. I believe writing elegant code and designing the perfect racing line both seek the optimal solution.
+I'm **Ziwen Hua**, an undergraduate at **University of Maryland-College Park**, passionate about computer science, mechanical engineering, and Formula 1. I believe writing elegant code and designing the perfect racing line both seek the optimal solution.
 
 ---
 
