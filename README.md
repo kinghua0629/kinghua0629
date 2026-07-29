@@ -8,7 +8,7 @@ I'm **Ziwen Hua**, an undergraduate at **University of Maryland-College Park**, 
 - **Shanghai NO.2 High School** — High School Diploma *(2022 ~ 2025)*
 
 ### 🏎️ Interests
-- **F1 Racing** — Favorite drivers: Max Verstappen & Oscar Piastri
+- **Formula 1** — Favorite drivers: Max Verstappen & Oscar Piastri
 - **Computer Science** — Algorithms, simulations, and system design
 - **Engineering** — AI, aerospace, hardware, Formula Student(FSAE)
 
