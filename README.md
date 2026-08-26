@@ -8,7 +8,7 @@ I'm **Ziwen Hua**, an undergraduate at **University of Maryland-College Park**, 
 - **Shanghai NO.2 High School** — High School Diploma *(2022 ~ 2025)*
 
 ### 🤖 Projects
-- **🎨[RobRoss](https://github.com/kinghua0629/RobRoss)** - A robot-arm art project *(currently in active prototype development)*
+- **🎨 [RobRoss](https://github.com/kinghua0629/RobRoss)** - A robot-arm art project *(currently in active prototype development)*
   - Built hand-eye calibration and canvas localization workflow, enabling the robot-arm to draw wherever the paper is
   - Improved the robot control path with JSON-RPC and a one-click launch flow
 
