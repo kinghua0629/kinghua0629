@@ -30,6 +30,10 @@ I'm **Ziwen Hua**, an undergraduate at **University of Maryland-College Park**, 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-DF7A4C?style=for-the-badge&logo=rust&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white)
+<br>
+<img src="https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/0e8b7520b97c1d0ab997488da38bb4b1ad67c06d/IntelliJIDEA/intelliJShadow.png" width="300" />
+<img src="https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/0e8b7520b97c1d0ab997488da38bb4b1ad67c06d/VSCode/VSCode-Thick.png" width="300" />
+
 
 ### 📫 Connect
 [![Blog](https://img.shields.io/badge/Blog-oscarhua0629.com-1868DB?style=for-the-badge)](https://oscarhua0629.com/)
