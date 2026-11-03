@@ -39,7 +39,7 @@ I'm **Ziwen Hua**, an undergraduate at **University of Maryland-College Park**, 
 ### 📫 Connect
 [![Blog](https://img.shields.io/badge/Blog-oscarhua0629.com-1868DB?style=for-the-badge)](https://oscarhua0629.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-kinghua0629-181717?style=for-the-badge&logo=github)](https://github.com/kinghua0629)
-[![X](https://img.shields.io/badge/X-@TimHua349889-000000?style=for-the-badge&logo=x)](https://x.com/TimHua349889)
+[![X](https://img.shields.io/badge/X-@kinghua0629-000000?style=for-the-badge&logo=x)](https://x.com/kinghua0629)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ziwen_Hua-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ziwen-hua-625a6a3b4/)
 [![Email](https://img.shields.io/badge/Email-kinghua0629@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:kinghua0629@gmail.com)
 
