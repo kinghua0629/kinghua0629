@@ -7,6 +7,14 @@ I'm **Ziwen Hua**, an undergraduate at **University of Maryland-College Park**, 
 - **University of Maryland-College Park** — Undeclared *(2026 ~ Present)*
 - **Shanghai NO.2 High School** — High School Diploma *(2022 ~ 2025)*
 
+### 💼 Experience
+- **Terps Racing IC, Electronics Subteam Member** - *09/2026 - Present*
+  - Designed Brake System Plausibility Device (BSPD) circuit boards for TR27
+- Shanghai HintonAI Tech, Intern - *07/2026 - 08/2026*
+  - Designed and improved the hand-eye calibration module for a ROS2-based open source robotic painting system, [RobRoss](https://github.com/kinghua0629/RobRoss).
+  - Collaborated with the path-execution pipeline to ensure calibration outputs were robust in real robot runs, reducing
+coordinate drift and alignment errors during autonomous drawing.
+
 ### 🤖 Projects
 - **🎨 [RobRoss](https://github.com/kinghua0629/RobRoss)** - A robot-arm art project *(currently in active prototype development)*
   - Built hand-eye calibration and canvas localization workflow, enabling the robot-arm to draw wherever the paper is
@@ -14,8 +22,8 @@ I'm **Ziwen Hua**, an undergraduate at **University of Maryland-College Park**, 
 
 ### 🏎️ Interests
 - **Formula 1** — Favorite drivers: Max Verstappen & Oscar Piastri
-- **Computer Science** — Algorithms, simulations, and system design
-- **Engineering** — AI, aerospace, hardware, Formula Student(FSAE)
+- **Computer Science** — AI, Algorithms, simulations, and system design
+- **Engineering** — Aerospace, hardware, Formula Student(FSAE)
 
 ### 🔧 Tech & Tools
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
