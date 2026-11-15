@@ -42,6 +42,7 @@ I'm **Ziwen Hua**, an undergraduate at **University of Maryland-College Park**, 
 [![X](https://img.shields.io/badge/X-@kinghua0629-000000?style=for-the-badge&logo=x)](https://x.com/kinghua0629)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ziwen_Hua-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ziwen-hua-625a6a3b4/)
 [![Email](https://img.shields.io/badge/Email-kinghua0629@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:kinghua0629@gmail.com)
+[![Email](https://img.shields.io/badge/Email-zwhua29@terpmail.umd.edu-EA4335?style=for-the-badge&logo=gmail)](mailto:zwhua29@terpmail.umd.edu)
 
 ---
 
